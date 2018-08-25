@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Learning_CSharp
 {
-    class Program
+    class NewProgram
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello World");
         }
     }
 }
