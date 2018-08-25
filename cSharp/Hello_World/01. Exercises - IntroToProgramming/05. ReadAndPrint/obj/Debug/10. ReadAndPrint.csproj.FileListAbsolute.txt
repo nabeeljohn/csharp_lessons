@@ -1,8 +1,0 @@
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\10. ReadAndPrint\bin\Debug\_10.ReadAndPrint.exe.config
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\10. ReadAndPrint\bin\Debug\_10.ReadAndPrint.exe
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\10. ReadAndPrint\bin\Debug\_10.ReadAndPrint.pdb
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\10. ReadAndPrint\obj\Debug\_10.ReadAndPrint.exe
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\10. ReadAndPrint\obj\Debug\_10.ReadAndPrint.pdb
-C:\Users\vache_000\Downloads\Zariba Academy\HW\HW1IntroToProgramming\10. ReadAndPrint\bin\Debug\_10.ReadAndPrint.exe.config
-C:\Users\vache_000\Downloads\Zariba Academy\HW\HW1IntroToProgramming\10. ReadAndPrint\obj\Debug\_10.ReadAndPrint.exe
-C:\Users\vache_000\Downloads\Zariba Academy\HW\HW1IntroToProgramming\10. ReadAndPrint\obj\Debug\_10.ReadAndPrint.pdb

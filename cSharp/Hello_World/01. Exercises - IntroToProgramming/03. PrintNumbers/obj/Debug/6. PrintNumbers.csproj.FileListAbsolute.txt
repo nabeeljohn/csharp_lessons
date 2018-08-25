@@ -1,5 +1,0 @@
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\6. PrintNumbers\bin\Debug\_6.PrintNumbers.exe.config
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\6. PrintNumbers\bin\Debug\_6.PrintNumbers.exe
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\6. PrintNumbers\bin\Debug\_6.PrintNumbers.pdb
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\6. PrintNumbers\obj\Debug\_6.PrintNumbers.exe
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\6. PrintNumbers\obj\Debug\_6.PrintNumbers.pdb

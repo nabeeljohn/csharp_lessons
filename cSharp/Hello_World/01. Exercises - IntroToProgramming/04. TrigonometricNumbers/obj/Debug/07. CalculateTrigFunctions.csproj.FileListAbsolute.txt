@@ -1,6 +1,0 @@
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\7. CalculateTrigFunctions\bin\Debug\_7.CalculateTrigFunctions.exe.config
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\7. CalculateTrigFunctions\obj\Debug\_7.CalculateTrigFunctions.exe
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\7. CalculateTrigFunctions\obj\Debug\_7.CalculateTrigFunctions.pdb
-C:\Users\vache_000\Downloads\Zariba Academy\HW\HW1IntroToProgramming\7. CalculateTrigFunctions\bin\Debug\_7.CalculateTrigFunctions.exe.config
-C:\Users\vache_000\Downloads\Zariba Academy\HW\HW1IntroToProgramming\7. CalculateTrigFunctions\obj\Debug\_7.CalculateTrigFunctions.exe
-C:\Users\vache_000\Downloads\Zariba Academy\HW\HW1IntroToProgramming\7. CalculateTrigFunctions\obj\Debug\_7.CalculateTrigFunctions.pdb

@@ -1,5 +1,0 @@
-G:\old win\Zariba Academy\HW - Copy\HW1IntroToProgramming\02. PrintNames\bin\Debug\_5.PrintMultipleLines.exe.config
-G:\old win\Zariba Academy\HW - Copy\HW1IntroToProgramming\02. PrintNames\bin\Debug\_5.PrintMultipleLines.exe
-G:\old win\Zariba Academy\HW - Copy\HW1IntroToProgramming\02. PrintNames\bin\Debug\_5.PrintMultipleLines.pdb
-G:\old win\Zariba Academy\HW - Copy\HW1IntroToProgramming\02. PrintNames\obj\Debug\_5.PrintMultipleLines.exe
-G:\old win\Zariba Academy\HW - Copy\HW1IntroToProgramming\02. PrintNames\obj\Debug\_5.PrintMultipleLines.pdb

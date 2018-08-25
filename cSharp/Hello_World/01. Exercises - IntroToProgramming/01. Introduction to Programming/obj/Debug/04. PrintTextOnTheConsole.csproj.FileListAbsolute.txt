@@ -1,2 +1,0 @@
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\4. PrintTextOnTheConsole\bin\Debug\_4.PrintTextOnTheConsole.exe.config
-C:\Users\vache_000\Downloads\Zariba Academy\HW\HW1IntroToProgramming\4. PrintTextOnTheConsole\bin\Debug\_4.PrintTextOnTheConsole.exe.config

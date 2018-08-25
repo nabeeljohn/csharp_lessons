@@ -1,5 +1,0 @@
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\5. PrintMultipleLines\bin\Debug\_5.PrintMultipleLines.exe.config
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\5. PrintMultipleLines\bin\Debug\_5.PrintMultipleLines.exe
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\5. PrintMultipleLines\bin\Debug\_5.PrintMultipleLines.pdb
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\5. PrintMultipleLines\obj\Debug\_5.PrintMultipleLines.exe
-c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\5. PrintMultipleLines\obj\Debug\_5.PrintMultipleLines.pdb
