@@ -1,0 +1,20 @@
+c:\users\darkbound\documents\visual studio 2017\Projects\Quick Tip - Math\Quick Tip - Math\bin\Debug\Quick Tip - Math.exe.config
+c:\users\darkbound\documents\visual studio 2017\Projects\Quick Tip - Math\Quick Tip - Math\bin\Debug\Quick Tip - Math.exe
+c:\users\darkbound\documents\visual studio 2017\Projects\Quick Tip - Math\Quick Tip - Math\bin\Debug\Quick Tip - Math.pdb
+c:\users\darkbound\documents\visual studio 2017\Projects\Quick Tip - Math\Quick Tip - Math\obj\Debug\Quick Tip - Math.exe
+c:\users\darkbound\documents\visual studio 2017\Projects\Quick Tip - Math\Quick Tip - Math\obj\Debug\Quick Tip - Math.pdb
+c:\users\darkbound\documents\visual studio 2017\Projects\Quick Tip - Math\Quick Tip - Math\bin\Debug\StyleCop.CSharp.dll
+c:\users\darkbound\documents\visual studio 2017\Projects\Quick Tip - Math\Quick Tip - Math\bin\Debug\StyleCop.dll
+c:\users\darkbound\documents\visual studio 2017\Projects\Quick Tip - Math\Quick Tip - Math\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+c:\users\darkbound\documents\visual studio 2017\Projects\Quick Tip - Math\Quick Tip - Math\obj\Debug\Quick Tip - Math.csprojResolveAssemblyReference.cache
+D:\Cont_Edu\C_Sharp\Hello_World\Quick Tip - Math\Quick Tip - Math\bin\Debug\Quick Tip - Math.exe.config
+D:\Cont_Edu\C_Sharp\Hello_World\Quick Tip - Math\Quick Tip - Math\bin\Debug\Quick Tip - Math.exe
+D:\Cont_Edu\C_Sharp\Hello_World\Quick Tip - Math\Quick Tip - Math\bin\Debug\Quick Tip - Math.pdb
+D:\Cont_Edu\C_Sharp\Hello_World\Quick Tip - Math\Quick Tip - Math\bin\Debug\StyleCop.CSharp.dll
+D:\Cont_Edu\C_Sharp\Hello_World\Quick Tip - Math\Quick Tip - Math\bin\Debug\StyleCop.dll
+D:\Cont_Edu\C_Sharp\Hello_World\Quick Tip - Math\Quick Tip - Math\bin\Debug\Microsoft.Build.Utilities.v3.5.dll
+D:\Cont_Edu\C_Sharp\Hello_World\Quick Tip - Math\Quick Tip - Math\obj\Debug\Quick Tip - Math.csprojAssemblyReference.cache
+D:\Cont_Edu\C_Sharp\Hello_World\Quick Tip - Math\Quick Tip - Math\obj\Debug\Quick Tip - Math.csproj.CoreCompileInputs.cache
+D:\Cont_Edu\C_Sharp\Hello_World\Quick Tip - Math\Quick Tip - Math\obj\Debug\Quick Tip - Math.csproj.CopyComplete
+D:\Cont_Edu\C_Sharp\Hello_World\Quick Tip - Math\Quick Tip - Math\obj\Debug\Quick Tip - Math.exe
+D:\Cont_Edu\C_Sharp\Hello_World\Quick Tip - Math\Quick Tip - Math\obj\Debug\Quick Tip - Math.pdb

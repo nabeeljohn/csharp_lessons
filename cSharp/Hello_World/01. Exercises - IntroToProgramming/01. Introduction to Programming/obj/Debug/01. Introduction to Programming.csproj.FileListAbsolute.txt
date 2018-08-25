@@ -1,0 +1,6 @@
+G:\old win\Zariba Academy\HW - Copy\HW1IntroToProgramming\01. Introduction to Programming\bin\Debug\_4.PrintTextOnTheConsole.exe.config
+G:\old win\Zariba Academy\HW - Copy\HW1IntroToProgramming\01. Introduction to Programming\bin\Debug\_4.PrintTextOnTheConsole.exe
+G:\old win\Zariba Academy\HW - Copy\HW1IntroToProgramming\01. Introduction to Programming\bin\Debug\_4.PrintTextOnTheConsole.pdb
+G:\old win\Zariba Academy\HW - Copy\HW1IntroToProgramming\01. Introduction to Programming\obj\Debug\01. Introduction to Programming.csprojResolveAssemblyReference.cache
+G:\old win\Zariba Academy\HW - Copy\HW1IntroToProgramming\01. Introduction to Programming\obj\Debug\_4.PrintTextOnTheConsole.exe
+G:\old win\Zariba Academy\HW - Copy\HW1IntroToProgramming\01. Introduction to Programming\obj\Debug\_4.PrintTextOnTheConsole.pdb

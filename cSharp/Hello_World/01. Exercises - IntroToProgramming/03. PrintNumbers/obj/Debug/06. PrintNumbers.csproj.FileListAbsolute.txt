@@ -1,0 +1,6 @@
+c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\6. PrintNumbers\bin\Debug\_6.PrintNumbers.exe.config
+c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\6. PrintNumbers\obj\Debug\_6.PrintNumbers.exe
+c:\users\vache_000\documents\visual studio 2013\Projects\HW1IntroToProgramming\6. PrintNumbers\obj\Debug\_6.PrintNumbers.pdb
+C:\Users\vache_000\Downloads\Zariba Academy\HW\HW1IntroToProgramming\6. PrintNumbers\bin\Debug\_6.PrintNumbers.exe.config
+C:\Users\vache_000\Downloads\Zariba Academy\HW\HW1IntroToProgramming\6. PrintNumbers\obj\Debug\_6.PrintNumbers.exe
+C:\Users\vache_000\Downloads\Zariba Academy\HW\HW1IntroToProgramming\6. PrintNumbers\obj\Debug\_6.PrintNumbers.pdb
