@@ -16,7 +16,7 @@
         System.Console.WriteLine(theNumberWasStringed[4]);
 
         bool theTruth = true;
-        System.Console.WriteLine(theTruth.ToString()[3]);
+        System.Console.WriteLine(theTruth.ToString()[2]);
 
     }
 }
